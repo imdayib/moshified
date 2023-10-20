@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'ubuntubold';
+    src: url('ubuntu-b-webfont.woff2') format('woff2'),
+         url('ubuntu-b-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ubuntubold_italic';
+    src: url('ubuntu-bi-webfont.woff2') format('woff2'),
+         url('ubuntu-bi-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ubuntu_condensedregular';
+    src: url('ubuntu-c-webfont.woff2') format('woff2'),
+         url('ubuntu-c-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ubuntulight';
+    src: url('ubuntu-l-webfont.woff2') format('woff2'),
+         url('ubuntu-l-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ubuntulight_italic';
+    src: url('ubuntu-li-webfont.woff2') format('woff2'),
+         url('ubuntu-li-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ubuntumedium';
+    src: url('ubuntu-m-webfont.woff2') format('woff2'),
+         url('ubuntu-m-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ubuntumedium_italic';
+    src: url('ubuntu-mi-webfont.woff2') format('woff2'),
+         url('ubuntu-mi-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ubunturegular';
+    src: url('ubuntu-r-webfont.woff2') format('woff2'),
+         url('ubuntu-r-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ubuntuitalic';
+    src: url('ubuntu-ri-webfont.woff2') format('woff2'),
+         url('ubuntu-ri-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
